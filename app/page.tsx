@@ -17,7 +17,7 @@ const page = () => {
       </h1>
       <SearchBar />
       <p className="text-sm opacity-50 lg:text-lg">
-        yonahakanji is a simple Japanese-English Kanji dictonary. To get started
+        Kanj is a simple Japanese-English Kanji dictonary. To get started
         type something into the search bar & for more information go to the
         about section.
       </p>
