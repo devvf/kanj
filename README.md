@@ -1,5 +1,5 @@
 ## About
-Hi, I'm yonahadev, thanks for checking out my website! This is a simple kanji dictionary in a familiar style for Japanese learners looking to find new Kanji or remember existing ones.
+This is a simple kanji dictionary in a familiar style for Japanese learners looking to find new Kanji or remember existing ones.
 
 
 This site uses the [**KANJIDIC**](http://nihongo.monash.edu/kanjidic2/index.html) dictionary which contains numerous pieces of additional data which can be used to identify each kanji. The site has a total of 10350 kanji ranging from the most used to lesser used ones.
