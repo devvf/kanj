@@ -8,10 +8,10 @@ const Footer = () => {
       <AiFillGithub size="30" />
       <p>©</p>
       <Link
-        href={"https://github.com/yonahadev"}
+        href={"https://github.com/devvf"}
         className="text-accent underline"
       >
-        yonahadev
+        devvf
       </Link>
       <p>2023</p>
     </footer>
