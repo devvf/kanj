@@ -2,7 +2,7 @@ import SearchBar from "@/components/SearchBar";
 import React from "react";
 
 export const metadata = {
-  title: "Home - yonahakanji",
+  title: "Home - Kanj",
 };
 
 const page = () => {
